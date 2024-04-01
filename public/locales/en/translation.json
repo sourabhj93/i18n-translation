@@ -1,0 +1,8 @@
+{
+    "direction": "LTR",
+    "greeting": "Hello <strong>{{name}}</strong>",
+    "text": "I am good",
+    "des": {
+        "main": "hi"
+    }
+}

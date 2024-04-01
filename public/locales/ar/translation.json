@@ -1,0 +1,8 @@
+{
+    "direction": "RTL",
+    "greeting": "مرحباً <strong>{{name}}</strong>",
+    "text": "شكرا لزيارة موقعنا",
+    "des": {
+        "main": "لزيارة"
+    }
+}
